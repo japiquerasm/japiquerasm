@@ -7,5 +7,3 @@ Apasionado por la tecnología y siempre en busca de desafíos que me permitan cr
 🔧 Mi experiencia previa en empresas como Econocom Spain y Logicalis Spain me ha permitido adquirir habilidades en mantenimiento y soporte de plataformas orientadas al desarrollo de software, así como en auditoría de vulnerabilidades y seguridad.
 
 📈 Siempre persigo proyectos que me desafíen y me permitan mantenerme a la vanguardia de las últimas tendencias tecnológicas. Apasionado por la automatización de procesos, la observabilidad y la mejora continua, estoy listo para aportar mi experiencia y habilidades a un equipo dinámico y orientado al éxito.
-
-¡Conéctate conmigo para explorar oportunidades de colaboración y crecimiento profesional!
