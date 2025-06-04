@@ -3,7 +3,7 @@
 
 📍 Madrid, España
 
-📱 686928723 | ✉️ japiquerasm@outlook.es | [LinkedIn](https://www.linkedin.com/in/japiqueras)
+✉️ japiquerasm@outlook.es | [LinkedIn](https://www.linkedin.com/in/japiqueras)
 
 ## Aptitudes Principales
 - 👁️ Observabilidad & Monitorización
