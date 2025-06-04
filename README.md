@@ -9,6 +9,7 @@
 - 👁️ Observabilidad & Monitorización
 - ☸️ Azure Kubernetes Service (AKS)
 - ⚙️ Ansible
+- ☁ Azure & AWS
 
 ## Certificaciones
 - LE-1: Linux Essentials
