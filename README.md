@@ -10,6 +10,7 @@
 - ☸️ Azure Kubernetes Service (AKS)
 - ⚙️ Ansible
 - ☁ Azure & AWS
+- 📜 Terraform
 
 ## Certificaciones
 - LE-1: Linux Essentials
